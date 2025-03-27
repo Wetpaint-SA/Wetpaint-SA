@@ -1,8 +1,7 @@
 # 🎨 **Wetpaint Advertising**
 ### _Bringing Africa to the World, and the World to Africa_
 
-
-
+---
 
 ## 🚀 About Us
 
@@ -11,33 +10,53 @@ We are a **full-service, ROI-driven, no-nonsense creative machine**—built to d
 
 ---
 
-## 🧠 What We Do
+## 🧠 Our Services
 
-We don’t just sell services—we build **impactful experiences**.
+We don’t just offer services—we deliver **solutions that scale and stories that sell**.
+
+### 🔍 Audit & Research
+- Brand, Competitor & Consumer Audits  
+- Digital Footprint & Market Trends  
+- Marketing Channels & Platforms  
+- KPI & ROI Forecasting
 
 ### 💡 Strategy
-- Brand Positioning
-- Media Strategy
-- Go-To-Market Planning
-- Campaign Conceptualisation
+- Development & Marketing Strategy  
+- Integrated Campaign Planning  
+- Lead Generation & Brand Awareness  
+- End-to-End Implementation
 
-### 🎨 Creative
-- Design & Identity
-- Copywriting & Storytelling
-- Campaign Development
-- Video, Animation & Motion Graphics
+### 🎙️ Media
+- Strategy & Planning  
+- Buying: Traditional + Digital  
+- Global & Local Market Adaptation  
+- Media Management
 
-### 📱 Digital & Tech
-- Web Design & Dev (WordPress, eComm, UX/UI)
-- SEO & Google Ads
-- Data Analytics & Reporting
-- Mobile Optimisation & Performance
+### ✍️ Creative & Content
+- Branding & Identity  
+- Content Development & Digital Storytelling  
+- Campaign Creative  
+- Audio, Video & Motion Graphics
 
-### 📢 Media & Marketing
-- Media Buying & Planning
-- Social Media Strategy & Management
-- Influencer Marketing
-- CRM Integration
+### 📲 Social
+- Content Creation & Management  
+- Community Building  
+- Media Buying  
+- Influencer Marketing  
+- Reporting & Insights
+
+### 🧠 Digital & Tech
+- App & Bot Development  
+- AI & GPT-Powered Tools  
+- SEO, PPC & Lead Generation  
+- Web & Mobile Development  
+- E-commerce Experiences
+
+### 📊 Management & ROI
+- KPI Benchmarking & Budget Management  
+- Measurement & Optimisation  
+- Reporting & Analytics  
+- ROI-focused Collaboration & Forecasting
 
 ---
 
@@ -54,32 +73,19 @@ Our creative campaigns stretch across Europe, the Middle East, and North America
 ## 🔧 Our Tech Stack
 
 We play where creativity meets performance:
-- **WordPress + Elementor + Bili Theme**
-- **A/B Testing Engines** (Custom Plugin Dev in Progress)
-- **Google Analytics + Tag Manager**
-- **Clarity Heatmaps**
+- **WordPress**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Next.JS**
+- **Google Analytics**
 - **Mailchimp Integration**
-- **2FA & Wordfence for Security**
-- **Daily Backups + Restoration Tests**
+
+
 
 ---
 
-## 🏆 Our Wins
-
-- Recognised by **CEO Views** as a top African agency to watch.
-- Long-term partners with leading brands like Vuma, Allan Gray, and the South African Mint.
-- 90%+ performance and accessibility scores across web audits.
-
----
-
-## 📈 We Don’t Guess—We Measure
-
-Every campaign, every design, every click is backed by **real-time analytics, SEO tracking**, and **constant optimisation**.  
-Our bounce rate is down, our audience is growing, and **we’re obsessed with the numbers that matter.**
-
----
-
-## 🙌 Work With Us
+## 🙌 Contact Us
 
 Want to _unlock growth, redefine your brand,_ or simply **turn heads**?
 
@@ -88,4 +94,4 @@ Want to _unlock growth, redefine your brand,_ or simply **turn heads**?
 
 ---
 
-> 🎯 _We're not in the business of "just ads." We're in the business of meaning, momentum, and measurable growth._
+
