@@ -1,7 +1,7 @@
 # 🎨 **Wetpaint Advertising**
 ### _Bringing Africa to the World, and the World to Africa_
 
----
+
 
 ## 🚀 About Us
 
