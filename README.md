@@ -14,9 +14,9 @@ We are a **full-service, ROI-driven, no-nonsense creative machine**—built to d
 
 We don’t just offer services—we deliver **solutions that scale and stories that sell**.
 
-<table>
+<table  width="100%">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
 
 ### 🔍 Audit & Research
 - Brand, Competitor & Consumer Audits  
@@ -43,7 +43,7 @@ We don’t just offer services—we deliver **solutions that scale and stories t
 - Audio, Video & Motion Graphics
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 📲 Social
 - Content Creation & Management  
